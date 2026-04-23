@@ -1,7 +1,7 @@
 # Athlete ACL Injury Prediction Model
 ## Overview
 An ML-based tool designed to identify athletes at risk of ACL tears, helping enable early intervention and injury prevention.
-The model uses factors such as 'ACL_Risk_Score', 'Fatigue_Score', and 'Training_Intensity', along with other biometric data to make its prediction.
+The model uses factors such as 'ACL_Risk_Score', 'Fatigue_Score', and 'Training_Intensity', along with other performance data to make its prediction.
 The model will return the probability of an ACL injury and classifies the athlete as 'Low Risk', 'Medium Risk', or 'High Risk'.
 
 ## The Process
